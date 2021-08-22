@@ -414,6 +414,15 @@ img {
   margin-top: -0.7rem;
 }
 
+.projects-link a {
+  color: var(--text-color);
+  font-size: var(--h3-font-size);
+}
+
+.projects-link a:hover {
+  text-decoration: underline;
+}
+
 /*========== CERTIFICATES ==========*/
 .certificate__title {
   font-size: var(--h3-font-size);
